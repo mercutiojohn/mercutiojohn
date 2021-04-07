@@ -1,7 +1,9 @@
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercutiojohn)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
 ![Hello](https://github.githubassets.com/images/mona-whisper.gif)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercutiojohn&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
 <!--
 **mercutiojohn/mercutiojohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
