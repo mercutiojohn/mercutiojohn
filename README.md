@@ -5,8 +5,17 @@
 </p>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercutiojohn&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
+<p align="center">
+  <a href="https://github.com/mercutiojohn">
+    <img alt="Tests Passing" src="https://github-readme-stats.vercel.app/api?username=mercutiojohn&show_icons=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mercutiojohn">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn&show_icons=true" />
+  </a>
+</p>
+      
 <!--
 **mercutiojohn/mercutiojohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
