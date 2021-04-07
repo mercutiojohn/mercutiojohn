@@ -4,6 +4,7 @@
 <img align="center" alt="Hello" src="https://github.githubassets.com/images/mona-whisper.gif"/>
 </p>
 </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercutiojohn&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
 <!--
