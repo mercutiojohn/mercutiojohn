@@ -1,6 +1,8 @@
 <p align="center">
-### Hi there 👋
-![Hello](https://github.githubassets.com/images/mona-whisper.gif)
+<h2 align="center">Hi there 👋</h2>
+<p align="center">
+<img align="center" alt="Hello" src="https://github.githubassets.com/images/mona-whisper.gif"/>
+</p>
 </p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercutiojohn&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn)](https://github-readme-stats.vercel.app/api?username=mercutiojohn)
