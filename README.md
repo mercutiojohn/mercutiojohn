@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/mercutiojohn">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn&show_icons=true" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn&show_icons=true&layout=compact" />
   </a>
 </p>
 
