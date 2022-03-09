@@ -1,8 +1,13 @@
-<p align="center">
-<h2 align="center">Hi there 👋</h2>
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/mercutiojohn/mercutiojohn/main/test.svg">
+		<img src="test.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
 <p align="center">
 <img align="center" alt="Hello" src="https://github.githubassets.com/images/mona-whisper.gif"/>
-</p>
 </p>
 
 <p align="center">
