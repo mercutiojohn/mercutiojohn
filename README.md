@@ -1,12 +1,17 @@
-<div align="center">
+A Person who loves [Open Design](http://figma.com/@mercutiojohn) & [Open Source](https://github.com/mercutiojohn). 
+
+As a full-time front-end developer on Weekdays,
+and a Product Designer crafting products on weekend. 
+
+<!-- <div align="center">
 	<br>
 	<a href="https://github.com/mercutiojohn?tab=repositories">
 		<img src="test.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
-</div>
+</div> -->
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" alt="Hello" src="https://github.githubassets.com/images/mona-whisper.gif"/>
 </p>
 
@@ -19,7 +24,7 @@
   <a href="https://github.com/mercutiojohn">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn&show_icons=true&layout=compact" />
   </a>
-</p>
+</p> -->
 
 <!--
 **mercutiojohn/mercutiojohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
