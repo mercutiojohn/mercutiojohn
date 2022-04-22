@@ -2,7 +2,7 @@ A Person who loves
 
 [Open Design](http://figma.com/@mercutiojohn) & [Open Source](https://github.com/mercutiojohn). 
 
-As a full-time front-end developer on Weekdays,
+As a full-time front-end developer on weekdays,
 
 and a Product Designer crafting products on weekend. 
 
