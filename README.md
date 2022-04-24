@@ -9,6 +9,8 @@ and a Product Designer crafting products on weekend.
 More information of me can be found at [My Website](https://mercutio.club) (in Chinese currently).
 </p>
 
+![views](https://gpvc.arturio.dev/mercutiojohn)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn&layout=compact)](https://github.com/mercutiojohn) -->
 <!-- <div align="center">
 	<br>
