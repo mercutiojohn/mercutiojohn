@@ -1,20 +1,20 @@
-A Person who loves
+<img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=mercutiojohn&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
-[Open Design](http://figma.com/@mercutiojohn) & [Open Source](https://github.com/mercutiojohn). 
+A Person who loves [Open Source](https://github.com/mercutiojohn). 
 
 As a full-time front-end developer on weekdays,
 
 and a Product Designer crafting products on weekend. 
 
-More information of me can be found at [My Website](https://mercutio.club).
-
+More information of me can be found at [My Website](https://mercutio.club) (in Chinese currently).
+</p>
 <!-- <div align="center">
 	<br>
 	<a href="https://github.com/mercutiojohn?tab=repositories">
 		<img src="test.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
-</div> -->
+
 
 <!-- <p align="center">
 <img align="center" alt="Hello" src="https://github.githubassets.com/images/mona-whisper.gif"/>
@@ -31,7 +31,6 @@ More information of me can be found at [My Website](https://mercutio.club).
   </a>
 </p> -->
 
-<img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=nexmoe&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
 <!-- ### Languages I use
 
