@@ -1,6 +1,6 @@
 <img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=mercutiojohn&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
-A Person who loves [Open Source](https://github.com/mercutiojohn). 
+A Person who loves Open Source. 
 
 As a full-time front-end developer on weekdays,
 
@@ -10,6 +10,14 @@ More information of me can be found at [My Website](https://mercutio.club) (in C
 </p>
 
 ![views](https://gpvc.arturio.dev/mercutiojohn)
+
+![GitHub metrics](https://metrics.lecoq.io/mercutiojohn)  
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=mercutiojohn)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mercutiojohn) -->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mercutiojohn)  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercutiojohn&layout=compact)](https://github.com/mercutiojohn) -->
 <!-- <div align="center">
