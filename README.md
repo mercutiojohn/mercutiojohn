@@ -2,7 +2,7 @@
 
 A Person who loves Open Source. 
 
-As a full-time front-end developer on weekdays,
+As a full-stack developer on weekdays,
 
 and a Product Designer crafting products on weekend. 
 
