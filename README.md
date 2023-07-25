@@ -1,6 +1,7 @@
 <!--<img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=mercutiojohn&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER"> -->
-<h1>❤️ Open Source.</h1>
-<h1>❤️ Design & Define.</h1>
+# ❤️ Open Source.
+
+# ❤️ Design & Define.
 
 <!-- As a full-stack developer on weekdays,
 and a Product Designer crafting products on weekend. 
