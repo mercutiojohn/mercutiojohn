@@ -1,1 +1,1 @@
-I Do Frontend Stuff.
+I do frontend stuff.
