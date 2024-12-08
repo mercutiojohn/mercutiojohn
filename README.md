@@ -1,1 +1,3 @@
-I do frontend stuff.
+Frontend Designer & Developer.
+Gen AI Enthusiast.
+Novice HCI Researcher.
