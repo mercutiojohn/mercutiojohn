@@ -1,5 +1,1 @@
-Frontend Designer & Developer.
-
-Gen AI Enthusiast.
-
-Novice HCI Researcher.
+Do UX and frontend stuff.
