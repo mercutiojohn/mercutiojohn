@@ -1,1 +1,1 @@
-Do UX and frontend stuff.
+I do UX and frontend stuff.
