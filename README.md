@@ -1,5 +1,7 @@
 #### Hi. 你好。
 
+<!-- 
+
 <a href="#stats" align="center">
   <picture>
     <source 
@@ -13,6 +15,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mercutiojohn&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
   </picture>
 </a>
+
+-->
 
 <!-- 
 > [!TIP]  
