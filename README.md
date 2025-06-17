@@ -1,4 +1,6 @@
-#### Hi. 你好。
+#### Hi. 
+
+I do UX and frontend stuff currently.
 
 <!-- 
 
@@ -23,7 +25,7 @@
 > I do provide consulting and outsourcing services for enterprises and startups in AI infra & AI multi-modal, AI interactive, and Multi-Agent fields, if you are interested, please contact me at [me@mercutio.club](mailto:me@mercutio.club)
 -->
 
-#### 我使用的语言和框架 Languages & Frameworks I use
+#### Languages & Frameworks I use
 
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,react,nextjs,vue,k8s,python,vite,nuxtjs,tailwind,graphql,unity,threejs)
 
