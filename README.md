@@ -1,6 +1,6 @@
 #### Hi. 
 
-I do UX, frontend and LLM applications dev stuffs currently.
+I do agents stuffs currently.
 
 <!-- 
 
